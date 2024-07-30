@@ -4,13 +4,13 @@ The objective of this notebook is to practice SQL commands on a real dataset. Th
 
 ## Download the dataset
 
-To reproduce the results of the query, you will have to download the dataset I've used <a href="https://techtfq.com/s/Olympics_data.zip"> here </a>.
+To reproduce the results of the query, you will have to download the dataset I've used <a href="https://techtfq.com/s/Olympics_data.zip"> here</a>.
 
 ## Dataset structure
 
 The structure is the following:
 
-<img src="images/DB_schema.png">
+![Schema of the database](images/DB_schema.png)
 
 ## Questions
 
